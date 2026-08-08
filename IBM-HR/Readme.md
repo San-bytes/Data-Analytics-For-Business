@@ -31,9 +31,9 @@ IBM HR Analytics Employee Attrition & Performance Dataset
 
 ## Files Included
 
-* `HR Analytics Dashboard.pbix` – Power BI dashboard
+* `Exp-6.pbix` – Power BI dashboard
 * `WA_Fn-UseC_-HR-Employee-Attrition.csv` – Dataset
-* `README.md` – Project documentation
+* `Exp_6(Report)` – Project documentation
 
 ## Dashboard Preview
 
